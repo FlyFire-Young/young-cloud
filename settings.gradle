@@ -1,0 +1,4 @@
+rootProject.name = 'cn.young'
+include 'eurakeserver'
+include 'eurakeclient'
+

@@ -18,8 +18,8 @@ spring-cloud-eurake服务注册中心demo。
 ## 本地开发 ##
 
 	// 开启eurakeserver服务端，浏览器访问 http://localhost:8761
-  // 开启eurakeclient服务端，浏览器访问 http://localhost:8762
-  // 开启eurakeclient2服务端，浏览器访问 http://localhost:8763
+  	// 开启eurakeclient服务端，浏览器访问 http://localhost:8762
+  	// 开启eurakeclient2服务端，浏览器访问 http://localhost:8763
 
 
 
